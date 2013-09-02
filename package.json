@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "dependencies": {
     "http-proxy": "*",
-	  "boxee-server": "https://github.com/jiraiya972/boxee-server.git"
+	  "boxee-server": "git://github.com/jiraiya972/boxee-server.git",
+    "filternet": "git://github.com/jiraiya972/filternet.git"
   },
   "engines": {
     "node": "0.10.x",
