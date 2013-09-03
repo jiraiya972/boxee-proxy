@@ -4,7 +4,7 @@
   "dependencies": {
     "http-proxy": "*",
 	  "boxee-server": "git://github.com/jiraiya972/boxee-server.git",
-    "filternet": "git://github.com/jiraiya972/filternet.git"
+    "filternet": "git://github.com/crcn/filternet.git"
   },
   "engines": {
     "node": "0.10.x",
